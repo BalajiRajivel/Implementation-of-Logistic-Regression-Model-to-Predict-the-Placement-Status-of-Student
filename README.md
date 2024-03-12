@@ -83,7 +83,18 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ## Salary Data:
 ![Screenshot 2024-03-12 094106](https://github.com/BalajiRajivel/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/103949835/ec5697be-43ea-41d2-8239-4ddf15efb1b3)
 
+## Checking the null() function: 
+![Screenshot 2024-03-12 094146](https://github.com/BalajiRajivel/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/103949835/673bda40-5c31-4320-8294-c290fe39e353)
 
+## Data duplicate:
+![Screenshot 2024-03-12 101953](https://github.com/BalajiRajivel/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/103949835/82a171f5-1959-4354-9853-6eb38197339a)
+
+## Print Data:
+![Screenshot 2024-03-12 094139](https://github.com/BalajiRajivel/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/103949835/6f54d4e1-a3c7-489b-b504-5ba48939155e)
+![Screenshot 2024-03-12 102852](https://github.com/BalajiRajivel/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/103949835/46550dd1-70b7-43e0-9f45-45fb1ea790e2)
+![Screenshot 2024-03-12 102549](https://github.com/BalajiRajivel/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/103949835/8089016c-83a3-4fc9-90ee-58c052ddb775)
+![Screenshot 2024-03-12 102559](https://github.com/BalajiRajivel/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/103949835/92a48099-7a50-4f39-9051-dd7fff13607a)
+![Screenshot 2024-03-12 102619](https://github.com/BalajiRajivel/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/103949835/db2796d2-05f8-4cda-8122-54de9b67c100)
 
 
 ## Result:
